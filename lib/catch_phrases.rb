@@ -14,6 +14,6 @@ def link
  puts phrase
 end
 
-def any_phrase (catchPhrase)
+def any_phrase (phrase)
   phrase = "D"
   
